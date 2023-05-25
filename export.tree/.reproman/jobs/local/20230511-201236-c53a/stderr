@@ -1,0 +1,8 @@
+WARNING (05/11/23 23:43:53): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.5455504.hostlist.ualeb4rc to get hosts
+starting job on c167-202
+starting job on c168-042
+starting job on c168-094
+slurmstepd: error: *** JOB 5455504 ON c167-202 CANCELLED AT 2023-05-12T07:43:43 DUE TO TIME LIMIT ***
+Killed by signal 15.
+Terminated
